@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### Grad School:
+I work on reducing traffic energy consumption be leveraging traffic simulation with [Dr. Bittle's Research Group](https://github.com/UnivOfAlabama-BittleResearchGroup) @The University of Alabama
+
+#### Consulting:
+Developing web apps and doing data analysis for [Hanson](https://www.hanson-inc.com/)  
+
 <!--
 **mschrader15/mschrader15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
