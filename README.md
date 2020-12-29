@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Grad School:
-Leveraging traffic simulation to reduce traffic energy consumption with [Dr. Bittle's Research Group](https://github.com/UnivOfAlabama-BittleResearchGroup) @The University of Alabama
+Leveraging traffic simulation to reduce traffic energy consumption with [Dr. Bittle's Research Group](https://github.com/UnivOfAlabama-BittleResearchGroup) @ The University of Alabama
 
 #### Consulting:
 Developing web apps and data pipelines for [Hanson](https://www.hanson-inc.com/)  
