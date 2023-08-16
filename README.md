@@ -7,10 +7,6 @@ Modelling Last-Mile Logistics & Cargo Bikes with [Green Last Mile](http://greenl
 Leveraging traffic simulation to reduce traffic energy consumption with [Dr. Bittle's Research Group](https://github.com/UnivOfAlabama-BittleResearchGroup) @ The University of Alabama
 
 
-
-#### Consulting:
-Developing web apps and data pipelines for [Hanson](https://www.hanson-inc.com/)  
-
 <!--
 **mschrader15/mschrader15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
