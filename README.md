@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### Grad School:
-
 Modelling Last-Mile Logistics with [Green Last Mile](http://greenlastmile.ai/) & [Kale AI](https://kale.ai/)
 
 Leveraging traffic simulation to reduce traffic energy consumption @ The University of Alabama
