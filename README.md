@@ -2,7 +2,7 @@
 
 #### Grad School:
 
-Modelling Last-Mile Logistics & Cargo Bikes with [Green Last Mile](http://greenlastmile.ai/)
+Modelling Last-Mile Logistics & Cargo Bikes with [Green Last Mile](http://greenlastmile.ai/) & [Kale AI](https://kale.ai/)
 
 Leveraging traffic simulation to reduce traffic energy consumption with [Dr. Bittle's Research Group](https://github.com/UnivOfAlabama-BittleResearchGroup) @ The University of Alabama
 
