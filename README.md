@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Modelling Last-Mile Logistics with [Green Last Mile](http://greenlastmile.ai/) & [Kale AI](https://kale.ai/)
+Numerical Algorithm Engineer @ SciTec
 
 Leveraging traffic simulation to reduce traffic energy consumption @ The University of Alabama
 
