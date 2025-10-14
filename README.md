@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Numerical Algorithm Engineer @ SciTec
+Algorithm Engineer @ Cavnue
 
-Leveraging traffic simulation to reduce traffic energy consumption @ The University of Alabama
+Prev:
+- Numerical Algorithms @ SciTec
+- Leveraging traffic simulation to reduce traffic energy consumption @ The University of Alabama
 
 
 <!--
